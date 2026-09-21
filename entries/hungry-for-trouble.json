@@ -1,0 +1,30 @@
+{
+  "title": "Hungry for Trouble",
+  "slug": "hungry-for-trouble",
+  "team": [
+    "Rapiiidooo"
+  ],
+  "play_url": "https://trouble.rapidoai.dev/",
+  "source_url": "https://github.com/Rapiiidooo/hungry-for-trouble",
+  "commit": "2284bd48dc7d669662c9ad3f5a28ecdbe1c498e6",
+  "genre": "shooter",
+  "agent": "OpenAI Codex",
+  "models": [
+    "GPT-6 via OpenAI Codex (final integration and review; earlier session model IDs were not recorded)",
+    "OpenAI ImageGen (original concept references; exact model ID was not exposed)",
+    "Google Lyria 3 Clip via Atlas (runtime soundtrack)",
+    "Gemini 3.1 Flash Lite Image via Atlas (runtime robot portraits)"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "Original procedural Three.js objects constructed through the 404 recipe; reference prompts, candidates and selections are in receipts/. No downloaded meshes.",
+    "Twelve original OpenAI ImageGen concept references in receipts/references/, used as visual construction guides rather than runtime geometry.",
+    "Atlas soundtrack: game/media/night-shift.mp3, generated with Google Lyria 3 Clip on jam credits.",
+    "Atlas MOP-3 and SHELF CONTROL portraits: game/media/mop-3.webp and game/media/shelf-control.webp, generated with Gemini 3.1 Flash Lite Image on jam credits.",
+    "Original code-native SVG interface illustrations, favicon and portrait of BUFF-0; original Canvas receipt sprites and Web Audio combat, Overtime, ending and fallback music.",
+    "Atlas prompts, costs, source/runtime checksums and processing are declared in receipts/atlas/generation-assets.json and receipts/atlas/runtime-assets.json."
+  ],
+  "what_i_found": "Your vacuum reloads by eating the crumbs that mark its escape route, so shooting spends what you just cleaned. A stolen surveillance visor briefly turns the same maze into a first-person firefight. Co-op partners share one ammo bag and repair each other; versus rivals spill their ammunition when defeated, feeding the next chase.",
+  "wallet": "later",
+  "contact": "@Rapido_ai"
+}
