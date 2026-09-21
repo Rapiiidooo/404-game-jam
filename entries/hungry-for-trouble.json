@@ -6,7 +6,7 @@
   ],
   "play_url": "https://trouble.rapidoai.dev/",
   "source_url": "https://github.com/Rapiiidooo/hungry-for-trouble",
-  "commit": "c2cf443402a7e5e91207d92809aae00e5d59be21",
+  "commit": "53def44f599b46edf8722b58b954896a6187b0dc",
   "genre": "shooter",
   "agent": "OpenAI Codex",
   "models": [
@@ -21,7 +21,7 @@
     "Twelve original OpenAI ImageGen concept references in receipts/references/, used as visual construction guides rather than runtime geometry.",
     "Atlas soundtrack: game/media/night-shift.mp3, generated with Google Lyria 3 Clip on jam credits.",
     "Atlas MOP-3 and SHELF CONTROL portraits: game/media/mop-3.webp and game/media/shelf-control.webp, generated with Gemini 3.1 Flash Lite Image on jam credits.",
-    "Original code-native SVG interface illustrations, favicon and portrait of BUFF-0; original Canvas receipt sprites and Web Audio combat, Overtime, ending and fallback music.",
+    "Original code-native SVG interface illustrations, favicon and portrait of BUFF-0; original Canvas floor patterns, department signs and receipt sprites; original Web Audio combat, Overtime, ending and fallback music.",
     "Atlas prompts, costs, source/runtime checksums and processing are declared in receipts/atlas/generation-assets.json and receipts/atlas/runtime-assets.json."
   ],
   "what_i_found": "Your vacuum reloads by eating the crumbs that mark its escape route, so shooting spends what you just cleaned. A stolen surveillance visor briefly turns the same maze into a first-person firefight. Co-op partners share one ammo bag and repair each other; versus rivals spill their ammunition when defeated, feeding the next chase.",
