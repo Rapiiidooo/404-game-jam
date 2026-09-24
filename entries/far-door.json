@@ -6,7 +6,7 @@
   ],
   "play_url": "https://fardoor.rapidoai.dev/",
   "source_url": "https://github.com/Rapiiidooo/far-door",
-  "commit": "fa3d0dd74dd31bb6563d81817942efd0cb350a8a",
+  "commit": "1c9cac408025620f2bbae93d13cca88168bf7d65",
   "genre": "platformer",
   "agent": "Claude Code",
   "models": [
@@ -17,7 +17,7 @@
     "Every 3D object is original procedural Three.js written through the 404 recipe: a brief, three candidates, the verifier's four-sided sheet and a choice by eye, all kept in receipts/candidates/. No downloaded meshes and no image generator.",
     "Surface textures are generated in the browser at load by the recipe's surfaces.js; the game ships no texture files.",
     "Music and sound effects are synthesised live with Web Audio in game/sound.js; the game ships no recordings.",
-    "Original HUD glyphs drawn as SVG in code (game/glyph-icons.js).",
+    "Original HUD glyphs drawn as SVG in code (game/glyph-icons.js), and an original favicon drawn as SVG (game/favicon.svg) with its 180 px PNG rendering (game/apple-touch-icon.png).",
     "Third-party typefaces: Barlow Condensed and DM Sans, SIL Open Font License 1.1, self-hosted in game/fonts/ with their licence files."
   ],
   "what_i_found": "Doors are dialled with light: in a sunken tomb you turn bronze mirrors until sunlight lights the three glyphs of the gate's address. Beyond it, a customs checkpoint only stamps address plates as punishment, so you provoke its Wardens with a confiscated sun disc and step out of each stamp's ring so it lands on the right plate. On the dawn isles the same disc, charged in crystal beams, wakes pylons whose stepped bridges of light last only seconds.",
